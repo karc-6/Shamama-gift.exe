@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.ignoreFiles": [".vscode/**", "**/*.md"],
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2
+}
